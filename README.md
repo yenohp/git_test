@@ -15,3 +15,5 @@ git log: shows log on local repo
 code . : opens entire repo into vscode
 
 git push: upload work to github.
+git remote -v: shows branches?
+git push origin main: makes sense when you look at the branches
