@@ -13,3 +13,5 @@ git commit -m "Edit <file-name>": commits files that previously existed?
 git log: shows log on local repo
 
 code . : opens entire repo into vscode
+
+git push: upload work to github.
